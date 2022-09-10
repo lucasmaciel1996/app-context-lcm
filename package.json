@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "echo 'test'",
+    "start": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
